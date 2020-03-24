@@ -5,9 +5,7 @@
 <code>$ apt update 
 $ apt install git python -y<br />
 $ pip3 install requests
-$ pip3 install py3-pinterest
-$ pip3 install json
-$ pip3 install time</code>
+$ pip3 install py3-pinterest</code>
 </pre>
 <br />
 <h1>Run</h1>
